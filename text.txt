@@ -1,0 +1,22 @@
+For my mini project, I developed an advanced text-to-speech (TTS) converter in Python using the pyttsx3 library. What sets this project apart is its robust design: the script checks for empty input, handles unexpected errors gracefully, supports a wide range of characters via UTF-8 encoding, and can be easily customized for different speech rates and volumes. The solution works completely offline, making it reliable and privacy-friendly compared to cloud-based TTS services.
+
+To make the project more flexible and user-centric, I refined the code to allow future enhancements like dynamic voice selection (male/female), real-time input, and command-line customization. I also explored how to optimize the speech for accessibility needs and implemented meaningful feedback messages at each step to help users of all technical levels.
+
+This project not only strengthened my understanding of Python programming, audio processing, and error handling but also deepened my appreciation for accessible technology, as the tool can help visually impaired users listen to any text content. My focus was on creating a solution that’s both technically sound and genuinely useful, demonstrating attention to both code quality and user experience.
+
+Distinctive Features:
+
+Offline TTS functionality for privacy and speed.
+
+Robust error handling and empty-file detection.
+
+Easy customization for rate, volume, and (optionally) voice type.
+
+UTF-8 support for internationalization.
+
+Clear, user-friendly feedback to avoid confusion.
+
+Foundation for further enhancements (real-time TTS, GUI, batch processing).
+
+Key Skills & Technologies:
+Python, pyttsx3, Text-to-Speech (TTS), Error Handling, Audio Processing, MP3 Generation, Accessibility, Clean Code Design
